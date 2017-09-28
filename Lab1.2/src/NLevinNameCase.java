@@ -4,7 +4,12 @@
 public class NLevinNameCase implements NameCase {
     public static void main (String [] args)
     {
-    	//test your code here
+    	NameCase test = new NLevinNameCase();
+    	System.out.println("This is where you should test your code.");
+    	System.out.println(test.titlecase("Levin"));
+    	System.out.println(test.swapcase("Levin"));
+    	System.out.println(test.alternatingcase("Levin"));
+    	
     }
 
     public String titlecase(String name)
