@@ -1,3 +1,5 @@
+package starterFiles;
+
 /**
  * Created by Mr. Levin on 9/28/17.
  * A interface for students to implement in their own class.

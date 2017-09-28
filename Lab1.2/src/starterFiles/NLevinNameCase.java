@@ -1,4 +1,6 @@
- /**
+package starterFiles; 
+
+/**
  * Created by Mr.Levin  on 9/28/17.
  */
 public class NLevinNameCase implements NameCase {
